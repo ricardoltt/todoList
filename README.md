@@ -8,7 +8,7 @@ O que aprendi realizando esse projeto:
 * Dados persistidos com AsyncStorage e funções assíncronas com async e await
 * Como importar e utilizar várias funcionalidades legais do React Native como: Ionicons, TaskList, Animatable
 
-![Gif da tela](C:\Users\rical\Documents\Projetos\tarefas\src\telaAndroid.gif)
+![Gif da tela](https://github.com/ricardoltt/todoList/blob/main/src/telaAndroid.gif)
 
 O aplicativo foi feito utilizando o Expo e JavaScript com a biblioteca React Native.
 
